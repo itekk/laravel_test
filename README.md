@@ -14,7 +14,7 @@ A simple and intuitive task management web application built with Laravel. This 
 
 ## Requirements
 
-- PHP 8.1 or higher
+- PHP 8.2 or higher
 - Composer
 - MySQL 5.7+ or MariaDB 10.3+
 - Web server (Apache/Nginx) or PHP built-in server for development
@@ -65,13 +65,6 @@ CREATE DATABASE task_manager;
 ### 5. Run Database Migrations
 ```bash
 php artisan migrate
-```
-
-### 6. (Optional) Seed Sample Data
-To populate the database with sample projects and tasks for testing:
-
-```bash
-php artisan db:seed
 ```
 
 ## Running the Application
