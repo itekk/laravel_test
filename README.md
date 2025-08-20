@@ -1,6 +1,6 @@
 # Laravel Task Manager
 
-A simple and intuitive task management web application built with Laravel. This application allows users to create, edit, delete, and reorder tasks with drag-and-drop functionality. Tasks can be organized into projects for better management.
+A simple task management web application built with Laravel. This application allows users to create, edit, delete, and reorder tasks with drag-and-drop functionality. Tasks can be organized into projects for better management.
 
 ## Features
 
